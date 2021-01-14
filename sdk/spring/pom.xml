@@ -167,6 +167,7 @@
         <module>azure-spring-boot-samples/azure-spring-cloud-sample-servicebus-queue-binder</module>
         <module>azure-spring-boot-samples/azure-spring-cloud-sample-servicebus-queue-multibinders</module>
         <module>azure-spring-boot-samples/azure-spring-cloud-sample-servicebus-topic-binder</module>
+        <module>azure-spring-boot-samples/azure-spring-cloud-sample-servicebus-topic-binder-functional</module>
         <module>azure-spring-boot-samples/azure-spring-cloud-sample-storage-queue-operation</module>
         <module>azure-spring-boot-samples/azure-spring-data-sample-gremlin-web-service</module>
         <module>azure-spring-boot-samples/azure-spring-data-sample-gremlin</module>
